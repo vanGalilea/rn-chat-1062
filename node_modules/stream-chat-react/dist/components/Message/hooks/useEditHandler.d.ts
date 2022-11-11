@@ -1,8 +1,0 @@
-import type { ReactEventHandler } from '../types';
-export declare type EditHandlerReturnType = {
-    clearEdit: (event?: React.BaseSyntheticEvent) => void;
-    editing: boolean;
-    setEdit: ReactEventHandler;
-};
-export declare const useEditHandler: (customInitialState?: boolean, customSetEditing?: ((event?: React.BaseSyntheticEvent) => void) | undefined, customClearEditingHandler?: ((event?: React.BaseSyntheticEvent) => void) | undefined) => EditHandlerReturnType;
-//# sourceMappingURL=useEditHandler.d.ts.map

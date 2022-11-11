@@ -1,4 +1,0 @@
-export * from './Gallery';
-export * from './Image';
-export * from './ModalGallery';
-//# sourceMappingURL=index.d.ts.map
