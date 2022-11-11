@@ -1,5 +1,4 @@
-# repro-1062
-# 1062
+Repo to reproduce issue [#1062](https://github.com/GetStream/stream-chat-js/issues/1062)
 
 
 ```
